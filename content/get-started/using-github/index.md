@@ -1,3 +1,4 @@
+![images](https://github.com/user-attachments/assets/6a607707-76ed-423c-9c59-7f811de6f350)
 ---
 title: Using GitHub
 intro: 'Explore {% data variables.product.company_short %}''s products from different platforms and devices.'
